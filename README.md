@@ -1,4 +1,8 @@
 # Sweet Shop Management System
+## 🚀 Live Demo
+
+Backend API (FastAPI Swagger UI):  
+👉 https://sweet-shop-kcz9.onrender.com/docs
 
 This project is a simple Sweet Shop Management System developed as part of the assignment.
 
